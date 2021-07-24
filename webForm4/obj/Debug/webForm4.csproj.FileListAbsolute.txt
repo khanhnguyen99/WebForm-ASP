@@ -1,0 +1,7 @@
+C:\Users\Hi\source\repos\webForm4\webForm4\bin\webForm4.dll.config
+C:\Users\Hi\source\repos\webForm4\webForm4\bin\webForm4.dll
+C:\Users\Hi\source\repos\webForm4\webForm4\bin\webForm4.pdb
+C:\Users\Hi\source\repos\webForm4\webForm4\obj\Debug\webForm4.csproj.CoreCompileInputs.cache
+C:\Users\Hi\source\repos\webForm4\webForm4\obj\Debug\webForm4.dll
+C:\Users\Hi\source\repos\webForm4\webForm4\obj\Debug\webForm4.pdb
+C:\Users\Hi\source\repos\webForm4\webForm4\obj\Debug\webForm4.csprojAssemblyReference.cache
